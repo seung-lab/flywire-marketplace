@@ -15,10 +15,13 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+collections_dir: groups
 collections:
   authors:
     output: true
-paginate_path: "/page/:num/"
+  marketplace:
+    output: true
+paginate_path: "/marketplace/:num/"
 show_get_theme_btn: true
 use_logo: false
 
@@ -27,7 +30,7 @@ paginate_content:
   enabled: true
   debug: false
   collections:
-    - posts
+    - marketplace
   auto: false
   separator: "--page-break--"
   permalink: "/:num/"

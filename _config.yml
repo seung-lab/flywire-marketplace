@@ -45,7 +45,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/flywire-marketplace" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
@@ -57,10 +57,13 @@ sent_message_url: "/contact/message-sent/"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+collections_dir: groups
 collections:
   authors:
     output: true
-paginate_path: "/page/:num/"
+  marketplace:
+    output: true
+paginate_path: "/marketplace/:num/"
 show_get_theme_btn: true
 use_logo: false
 
@@ -69,7 +72,7 @@ paginate_content:
   enabled: true
   debug: false
   collections:
-    - posts
+    - marketplace
   auto: false
   separator: "--page-break--"
   permalink: "/:num/"
