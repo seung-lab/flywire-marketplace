@@ -1,6 +1,7 @@
 ---
 date: 2018-10-09 12:26:40
 layout: post
+menu: false
 title: Brain Circuits
 subtitle: 'The BrainCircuits.io platform provides a web-based application to analyze, visualize and query synaptic-level, large-scale connectomics datasets.'
 description: >-

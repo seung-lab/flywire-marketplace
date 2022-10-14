@@ -1,6 +1,7 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
+menu: false
 title: Connectivity
 subtitle: 'Connectivity Tool.'
 description: >-
