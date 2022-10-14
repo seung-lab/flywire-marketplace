@@ -4,7 +4,7 @@ layout: post
 title: Connectivity
 subtitle: 'Connectivity Tool.'
 description: >-
-Connectivity Tool.
+  Connectivity Tool.
 category: dash apps
 tags:
   - dash apps
