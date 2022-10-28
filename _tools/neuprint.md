@@ -1,11 +1,8 @@
 ---
-date: 2018-07-20 12:26:40
-layout: post
-menu: false
+layout: tools
 title: neuPRINT
 subtitle: 'Analysis tools for connectomics and more'
 source: https://neuprint.janelia.org/
 image: https://neuprint.janelia.org/public/neuprintexplorerw.png
-paginate: true
 ---
 neuPrintExplorer provides tools to query and visualize inter and intra cellular interactions data stored in neuPrint+, which uses a neo4j graph database.

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}" class="no-js">
+{% include head.html %}
+
+<body class="has-push-menu">
+    {% include svg-icons.html %}
+    {% include header.html %}
+    <section class="post two-columns">
+        <article role="article" class="post-content">
+            {{ content | markdownify }}
+        </article>
+    </section>
+    {% include footer.html %}
+</body>
+
+</html>

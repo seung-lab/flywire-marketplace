@@ -1,7 +1,5 @@
 ---
-date: 2019-05-16T23:48:05.000Z
-layout: post
-menu: false
+layout: tools
 title: Navis
 subtitle: 'Transforms to map between different Drosophila template brains'
 source: https://github.com/navis-org/navis-flybrains
@@ -10,7 +8,6 @@ image: >-
 category: python
 tags:
   - python
-paginate: true
 ---
 Transforms to map between different _Drosophila_ template brains. Intended to be used with [navis](https://github.com/schlegelp/navis).
 

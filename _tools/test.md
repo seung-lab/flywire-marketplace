@@ -1,11 +1,8 @@
 ---
-date: 2018-07-20 12:26:40
-layout: post
-menu: false
+layout: tools
 title: test
 subtitle: 'this is a test tool'
 source: https://www.google.com/
 image: https://neuprint.janelia.org/public/neuprintexplorerw.png
-paginate: true
 ---
 HELLO WORLD

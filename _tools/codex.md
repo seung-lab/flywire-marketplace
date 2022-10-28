@@ -1,11 +1,8 @@
 ---
-date: 2018-07-20 12:26:40
-layout: post
-menu: false
+layout: tools
 title: Codex
 subtitle: 'Connectome Data Explorer'
 source: https://codex.pniapps.org/
 image: https://codex.pniapps.org/background_image
-paginate: true
 ---
 Data analysis tools for the [FlyWire](https://flywire.ai/) full-brain connectome

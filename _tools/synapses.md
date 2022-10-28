@@ -1,7 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
-layout: post
-menu: false
+layout: tools
 title: Synapses with Partner
 subtitle: 'Synapses with Partner Tool'
 source: https://prod.flywire-daf.com/dash/datastack/flywire_fafb_production/apps/fly_partners/?cleft_thresh_input=50
@@ -9,6 +7,5 @@ image: /flywire-marketplace/assets/img/uploads/synapses_ai.jpeg
 category: dash apps
 tags:
   - dash apps
-paginate: true
 ---
 Synapses with Partner Tool.
